@@ -46,4 +46,3 @@ end
 
 
 move_head(['R',"4"])
-p TAIL_COORDS
